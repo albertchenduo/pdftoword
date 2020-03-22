@@ -1,4 +1,4 @@
-package com.example.pdftoword.entity;
+package com.example.pdftoword.pack1;
 
 import org.apache.pdfbox.pdmodel.PDDocument;
 import org.apache.pdfbox.text.PDFTextStripper;

@@ -1,6 +1,4 @@
-package com.example.pdftoword.util;
-
-import com.example.pdftoword.entity.PdfToWord;
+package com.example.pdftoword.pack1;
 
 /**
  * @Description
@@ -11,6 +9,6 @@ public class TestUtil {
 
 	public static void main(String[] args) {
 		PdfToWord convert=new PdfToWord();
-		convert.convertText("E:\\2020年初中英语分类汇编之单项选择.pdf");
+		convert.convertText("E:\\1.pdf");
 	}
 }
